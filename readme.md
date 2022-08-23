@@ -26,11 +26,7 @@
 
 ![](./asserts/screen1.jpg)
 
-<br>
-
 ![](./asserts/screen2.jpg)
-
-<br>
 
 ![](./asserts/screen3.jpg)
 
